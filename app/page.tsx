@@ -108,7 +108,7 @@ export default function LandingPage() {
                   whileTap={{ scale: 0.9 }}
                 >
                   <div className="flex flex-row items-center justify-center gap-4">
-                    <Link href={"https://t.me/+KRNfWJgOP08xN2Rh"}>
+                    <Link href={"https://www.instagram.com/soycarabis"}>
                     <img
                     src="/instagram.png"
                     alt="Decorative corner element"
@@ -122,7 +122,7 @@ export default function LandingPage() {
                     className="w-12 h-12 md:w-48 md:h-48 object-cover opacity-80"
                   />
                     </Link>
-                    <Link href={"https://www.instagram.com/soycarabis"}>
+                    <Link href={"https://t.me/+KRNfWJgOP08xN2R"}>
                     <img
                     src="/telegram.png"
                     alt="Decorative corner element"
