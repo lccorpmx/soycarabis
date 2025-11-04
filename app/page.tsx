@@ -112,21 +112,21 @@ export default function LandingPage() {
                     <img
                     src="/instagram.png"
                     alt="Decorative corner element"
-                    className="w-12 h-12 md:w-48 md:h-48 object-cover opacity-80"
+                    className="w-12 h-12 md:w-32 md:h-32 object-cover opacity-80"
                   />
                     </Link>
                     <Link href={"https://www.tiktok.com/@soycarabis"}>
                     <img
                     src="/tiktok.png"
                     alt="Decorative corner element"
-                    className="w-12 h-12 md:w-48 md:h-48 object-cover opacity-80"
+                    className="w-12 h-12 md:w-32 md:h-32 object-cover opacity-80"
                   />
                     </Link>
                     <Link href={"https://t.me/+KRNfWJgOP08xN2R"}>
                     <img
                     src="/telegram.png"
                     alt="Decorative corner element"
-                    className="w-12 h-12 md:w-48 md:h-48 object-cover opacity-80"
+                    className="w-12 h-12 md:w-32 md:h-32 object-cover opacity-80"
                   />
                     </Link>
                   </div>
