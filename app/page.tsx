@@ -122,7 +122,7 @@ export default function LandingPage() {
                     className="w-12 h-12 md:w-32 md:h-32 object-cover opacity-80"
                   />
                     </Link>
-                    <Link href={"https://t.me/+KRNfWJgOP08xN2R"}>
+                    <Link href={"https://t.me/+KRNfWJgOP08xN2Rh"}>
                     <img
                     src="/telegram.png"
                     alt="Decorative corner element"
